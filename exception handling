@@ -1,0 +1,13 @@
+
+'''
+try:
+    print(15/0)
+except:
+    print("dont know")'''
+    
+    
+'''try:
+    print(15/2)
+except:
+    print("dont know")
+    '''
