@@ -1,0 +1,7 @@
+    #break
+x=[5,2,4,7,9,12]
+y=9
+for i in x:
+ if y==i:
+    break
+    print(i)
